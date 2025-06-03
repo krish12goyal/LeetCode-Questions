@@ -1,3 +1,2 @@
 # LeetCode-Questions
-See -> Understand -> Practice -> Done👍 
-dgwicahwkuva lncwovcac 
+See -> Understand -> Practice -> Done👍
